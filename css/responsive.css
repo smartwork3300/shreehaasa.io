@@ -1,0 +1,10 @@
+@media (min-width:360px) and (max-width:460px) {
+body {
+}
+.product-slider {
+	margin-bottom: 32px;
+}
+.banner-sliders img {
+	height:200px !important ;
+}
+}
